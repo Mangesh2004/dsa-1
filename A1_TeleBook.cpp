@@ -3,6 +3,7 @@ Make use of two collision handling techniques and compare them using number of c
 
 #include <iostream>
 #include <vector>
+#include <string>
 using namespace std;
 
 const int TABLE_SIZE = 10;
